@@ -1,0 +1,38 @@
+# Database files
+kiralama.db
+*.db
+*.sqlite
+
+# Large compressed archives
+*.rar
+*.zip
+*.tar.gz
+*.tgz
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Exclude large binary lecture notes and exam images
+# (to keep the repo clean and avoid copyright violations)
+ders notları/
+veritabanı çıkmış sorular/
+Çıkmış Sorular/
+2017 final/
+2020 final/
+*.pdf
+*.ppt
+*.pptx
+*.png
+*.jpg
+*.jpeg
