@@ -56,6 +56,22 @@ Bu yazılım **emirberasoguk** lisans koruması altındadır. Yazılımın çal�
 
 ---
 
+## 🃏 Arkadaşlarınıza Şaka Yapın (IBAN Özelleştirme)
+
+Bu yazılımı sınıf gruplarında veya arkadaşlarınızla paylaşırken eğlenmek için başlangıçtaki IBAN adresini kendi bilgilerinizle değiştirebilirsiniz. 😉
+
+Bunun için:
+1. `sql_pratik.py` dosyasını bir editörde açın.
+2. Yaklaşık **24. satırda** yer alan şu kısmı bulun:
+   ```python
+   "[bold green]IBAN: TR00 0000 0000 0000 0000 0000 00[/bold green] (emirberasoguk)\n\n"
+   ```
+3. `TR00 0000...` kısmını kendi IBAN numaranızla değiştirin ve kaydedin. 
+
+Artık arkadaşlarınız uygulamayı çalıştırmak istediğinde sizin IBAN adresinizle karşılaşacaklar! 🍵
+
+---
+
 ## 👨‍💻 Geliştirici
 Geliştiren: **[emirberasoguk](https://github.com/emirberasoguk)**
 
